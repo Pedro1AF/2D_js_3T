@@ -1,0 +1,10 @@
+button{
+    border-color: black;
+    margin-left: 10px;
+}
+
+input{
+    width: 50vw;
+    border-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
